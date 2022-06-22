@@ -1,4 +1,4 @@
-package com.gmail.aleksandrphilimonov.exeptions;
+package com.gmail.aleksandrphilimonov.lesson3.exeptions;
 
 public class MainApp {
     public static void main(String[] args) {

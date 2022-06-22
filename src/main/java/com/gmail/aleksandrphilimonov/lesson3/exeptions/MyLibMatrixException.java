@@ -1,4 +1,4 @@
-package com.gmail.aleksandrphilimonov.exeptions;
+package com.gmail.aleksandrphilimonov.lesson3.exeptions;
 
 public class MyLibMatrixException extends MyLibException {
     private int row;

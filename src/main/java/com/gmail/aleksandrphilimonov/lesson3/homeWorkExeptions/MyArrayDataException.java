@@ -1,4 +1,4 @@
-package com.gmail.aleksandrphilimonov.homeWorkExeptions;
+package com.gmail.aleksandrphilimonov.lesson3.homeWorkExeptions;
 
 public class MyArrayDataException extends MyException{
     public MyArrayDataException() {

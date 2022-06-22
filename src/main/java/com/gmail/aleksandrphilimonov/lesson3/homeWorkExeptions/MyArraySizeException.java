@@ -1,4 +1,4 @@
-package com.gmail.aleksandrphilimonov.homeWorkExeptions;
+package com.gmail.aleksandrphilimonov.lesson3.homeWorkExeptions;
 
 public class MyArraySizeException extends MyException{
     public MyArraySizeException() {
