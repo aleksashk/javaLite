@@ -4,19 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c529edf-149f-42f2-85ee-bb7de67e9149" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0c529edf-149f-42f2-85ee-bb7de67e9149" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/exeptions/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/exeptions/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/exeptions/MyLibException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/exeptions/MyLibException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/exeptions/MyLibMatrixException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/exeptions/MyLibMatrixException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MyArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MyArrayDataException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MyArraySizeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MyArraySizeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson3/homeWorkExeptions/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/MainApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/deadlock/DeadlockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/deadlock/DeadlockApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/deadlock/DeadlockRepaired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/deadlock/DeadlockRepaired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/homework/MainAppPart1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/homework/MainAppPart1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/race_condition/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/race_condition/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/race_condition/RaceConditionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/race_condition/RaceConditionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/race_condition/SynchCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/race_condition/SynchCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/race_condition/SynchCounterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/race_condition/SynchCounterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/race_condition/SynchMethodsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/race_condition/SynchMethodsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/ChairsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/ChairsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/SynchMethodsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/SynchMethodsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/SynchMonitorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/SynchMonitorApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/SynchStaticMethodApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/SynchStaticMethodApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/double_counter/NotCorrectSynchDoubleCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/double_counter/NotCorrectSynchDoubleCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/double_counter/SynchCounterApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/double_counter/SynchCounterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/synchronization/double_counter/SynchDoubleCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/synchronization/double_counter/SynchDoubleCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/AnonymousExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/AnonymousExampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/DaemonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/DaemonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/ExecutorServiceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/ExecutorServiceApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/RunnableExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/RunnableExampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/TempApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/TempApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/ThreadExampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/ThreadExampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/ThreadOrderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/ThreadOrderApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/thread_creation_base/ThreadStopApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/thread_creation_base/ThreadStopApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6/wait_notify/WaitNotifyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/aleksandrphilimonov/lesson6_7/wait_notify/WaitNotifyApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -59,43 +73,36 @@
       <recent name="E:\javaLite\repository\javaLite\src\main\java\com\gmail\aleksandrphilimonov\lesson2" />
       <recent name="E:\javaLite\repository\javaLite\src\main\java\com\gmail\aleksandrphilimonov\lesson1" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaLite\repository\javaLite" />
+      <recent name="E:\javaLite\repository\javaLite\src\main\java\com\gmail\aleksandrphilimonov" />
+      <recent name="E:\javaLite\repository\javaLite\src\main\resources" />
+      <recent name="E:\javaLite\repository\javaLite\src\main\java\com\gmail\aleksandrphilimonov\lesson8\stream_api" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.gmail.aleksandrphilimonov.lesson6.race_condition" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExecutorServiceApp">
-    <configuration name="DeadlockApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6.deadlock.DeadlockApp" />
-      <module name="javaLite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6.deadlock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeadlockRepaired" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6.deadlock.DeadlockRepaired" />
-      <module name="javaLite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6.deadlock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainApp">
     <configuration name="ExecutorServiceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6.thread_creation_base.ExecutorServiceApp" />
+      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6_7.thread_creation_base.ExecutorServiceApp" />
       <module name="javaLite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6.thread_creation_base.*" />
+          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6_7.thread_creation_base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson8.stream_api.homework.MainApp" />
+      <module name="javaLite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson8.stream_api.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +111,24 @@
       </method>
     </configuration>
     <configuration name="MainAppPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6.homework.MainAppPart1" />
+      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6_7.homework.MainAppPart1" />
       <module name="javaLite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6.homework.*" />
+          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6_7.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson8.stream_api.classwork.MainClass" />
+      <module name="javaLite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson8.stream_api.classwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="WaitNotifyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6.wait_notify.WaitNotifyApp" />
+      <option name="MAIN_CLASS_NAME" value="com.gmail.aleksandrphilimonov.lesson6_7.wait_notify.WaitNotifyApp" />
       <module name="javaLite" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6.wait_notify.*" />
+          <option name="PATTERN" value="com.gmail.aleksandrphilimonov.lesson6_7.wait_notify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExecutorServiceApp" />
-        <item itemvalue="Application.MainAppPart1" />
-        <item itemvalue="Application.WaitNotifyApp" />
-        <item itemvalue="Application.DeadlockRepaired" />
-        <item itemvalue="Application.DeadlockApp" />
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.com.gmail.aleksandrphilimonov.lesson8.stream_api.classwork.MainClass" />
+        <item itemvalue="Application.com.gmail.aleksandrphilimonov.lesson6_7.thread_creation_base.ExecutorServiceApp" />
+        <item itemvalue="Application.com.gmail.aleksandrphilimonov.lesson6_7.homework.MainAppPart1" />
+        <item itemvalue="Application.com.gmail.aleksandrphilimonov.lesson6_7.wait_notify.WaitNotifyApp" />
       </list>
     </recent_temporary>
   </component>
@@ -147,8 +167,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655759319049</updated>
-      <workItem from="1655759320324" duration="20870000" />
+      <workItem from="1655759320324" duration="36461000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1655933475346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655933475346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
