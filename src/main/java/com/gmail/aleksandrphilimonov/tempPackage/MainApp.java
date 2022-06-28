@@ -8,18 +8,8 @@ import java.util.stream.Collectors;
 public class MainApp {
     public static void main(String[] args) {
 
-//        String[] words = {"AA", "AeA", "AeAe", "AeA", "AeAe", "AeA"};
-//        String result = Arrays.stream(words)
-//                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
-//                .entrySet()
-//                .stream()
-//                .max(Comparator.comparingLong(e -> e.getValue()))
-//                .get()
-//                .getKey();
-//
-//        System.out.println(result);
-        String[] strings = {"AAA", "AA", "AA"};
-        String result = Arrays.stream(strings)
+        String[] words = {"AAA", "A", "AAA"};
+        String result = Arrays.stream(words)
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
                 .entrySet()
                 .stream()

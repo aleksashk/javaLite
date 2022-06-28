@@ -1,25 +1,21 @@
 package com.gmail.aleksandrphilimonov.lesson9.reflection_api;
 
-public class Cat1 {
+public class Cat {
     private int privateField;
     int defaultField;
     public int publicField;
 
-    public static void getCatString() {
-        System.out.println(Cat1.class.getSimpleName() + " -> run static method");
-    }
-
-    public Cat1(int privateField, int defaultField, int publicField) {
+    public Cat(int privateField, int defaultField, int publicField) {
         this.privateField = privateField;
         this.defaultField = defaultField;
         this.publicField = publicField;
     }
 
-    public Cat1() {
+    public Cat() {
     }
 
     public void publicMeow() {
-        System.out.println("public meow");
+        System.out.println("publicMeow");
     }
 
     private void privateMeow() {
@@ -28,7 +24,7 @@ public class Cat1 {
 
     @Override
     public String toString() {
-        return "Cat1{" +
+        return "Cat{" +
                 "privateField=" + privateField +
                 ", defaultField=" + defaultField +
                 ", publicField=" + publicField +
